@@ -4,3 +4,6 @@ plotly
 streamlit-aggrid
 psycopg2-binary
 openpyxl
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
