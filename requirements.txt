@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+streamlit-aggrid
+psycopg2-binary
+openpyxl
