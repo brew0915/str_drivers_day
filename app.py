@@ -12,7 +12,7 @@ from typing import Tuple, List
 # 1. CONFIGURAÇÕES GERAIS
 # =====================================================
 st.set_page_config(page_title="Dashboard Motoristas - Shopee", layout="wide")
-st.title("📊 Dashboard Drivers (SHEET_OFERTA + SHEET_CARREG + CADASTRO)")
+st.title("📊 Dashboard Drivers")
 
 SERVICE_ACCOUNT_FILE = "credentials.json"  # <-- confirme que esse arquivo existe
 SHEET_ID = "1PwudX5L5c_zuQJXSCzAyZSdxTVRY0MMcqzGqS-up7nw"
